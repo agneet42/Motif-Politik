@@ -6,3 +6,4 @@
 
 1. Scrapy - [https://scrapy.org/]
 2. A Google API for Python - [https://github.com/MarioVilas/google]
+3. Beautiful Soup - [https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start]

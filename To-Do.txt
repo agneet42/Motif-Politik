@@ -1,0 +1,12 @@
+Part 1 :
+
+a) Google Search from python on a given topic 'X'
+b) Get first 500 hits/links.
+c) Use these links as starting links for the crawler which crawls to a depth of 1 or 2, maybe
+d) Go back to b), and do it for the next pair of links, until the hits taper off
+e) Dump data into a JSON or a txt file. Cleanse using Beautiful Soup.
+
+
+Part 2:
+
+a) Look up types of Machine Translation utilities - Rule-based, Statistical, Hybrid, Neural and find present capabilities/State of Art for English-Vernacular languages
